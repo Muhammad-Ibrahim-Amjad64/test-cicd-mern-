@@ -1,0 +1,26 @@
+.inputContainer{
+    /* margin: 1vh; */
+  
+
+}
+
+.input{
+    border: 2px solid rgb(231, 230, 230);
+    outline: none;
+    height: 5vh;
+    width: 5vw;
+    /* padding-left: 1vw; */
+    
+}
+
+.error{
+    color: red;
+
+}
+
+.input::placeholder{
+    color: rgb(166, 166, 166);
+    font-size: larger;
+    margin-left: 1vw;
+    /* font-weight: 600; */
+}
